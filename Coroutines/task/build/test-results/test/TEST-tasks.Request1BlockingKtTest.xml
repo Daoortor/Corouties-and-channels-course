@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tasks.Request1BlockingKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-09T22:08:52" hostname="ubuntu" time="0.009">
+  <properties/>
+  <testcase name="testAggregation" classname="tasks.Request1BlockingKtTest" time="0.009"/>
+  <system-out><![CDATA[683 [Test worker] INFO  Contributors - org: loaded 3 repos
+684 [Test worker] INFO  Contributors - repo-1: loaded 2 contributors
+685 [Test worker] INFO  Contributors - repo-2: loaded 2 contributors
+686 [Test worker] INFO  Contributors - repo-3: loaded 2 contributors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

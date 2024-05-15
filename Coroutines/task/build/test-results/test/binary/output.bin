@@ -1,0 +1,31 @@
+H527 [Test worker @coroutine#1] INFO  Contributors - org: loaded 3 repos
+R540 [Test worker @coroutine#1] INFO  Contributors - repo-1: loaded 2 contributors
+R542 [Test worker @coroutine#1] INFO  Contributors - repo-2: loaded 2 contributors
+R543 [Test worker @coroutine#1] INFO  Contributors - repo-3: loaded 2 contributors
+H587 [Test worker @coroutine#2] INFO  Contributors - org: loaded 3 repos
+P607 [Test worker @coroutine#3] INFO  Contributors - starting loading for repo-1
+P608 [Test worker @coroutine#4] INFO  Contributors - starting loading for repo-2
+P609 [Test worker @coroutine#5] INFO  Contributors - starting loading for repo-3
+R611 [Test worker @coroutine#5] INFO  Contributors - repo-3: loaded 2 contributors
+R612 [Test worker @coroutine#3] INFO  Contributors - repo-1: loaded 2 contributors
+R614 [Test worker @coroutine#4] INFO  Contributors - repo-2: loaded 2 contributors
+H628 [Test worker @coroutine#6] INFO  Contributors - org: loaded 3 repos
+R629 [Test worker @coroutine#6] INFO  Contributors - repo-1: loaded 2 contributors
+R633 [Test worker @coroutine#6] INFO  Contributors - repo-2: loaded 2 contributors
+R634 [Test worker @coroutine#6] INFO  Contributors - repo-3: loaded 2 contributors
+H647 [Test worker @coroutine#7] INFO  Contributors - org: loaded 3 repos
+S656 [Test worker @coroutine#10] INFO  Contributors - repo-3: loaded 2 contributors
+R660 [Test worker @coroutine#8] INFO  Contributors - repo-1: loaded 2 contributors
+R661 [Test worker @coroutine#9] INFO  Contributors - repo-2: loaded 2 contributors
+;683 [Test worker] INFO  Contributors - org: loaded 3 repos
+E684 [Test worker] INFO  Contributors - repo-1: loaded 2 contributors
+E685 [Test worker] INFO  Contributors - repo-2: loaded 2 contributors
+E686 [Test worker] INFO  Contributors - repo-3: loaded 2 contributors
+8701 [Thread-3] INFO  Contributors - org: loaded 3 repos
+B702 [Thread-3] INFO  Contributors - repo-1: loaded 2 contributors
+B703 [Thread-3] INFO  Contributors - repo-2: loaded 2 contributors
+B704 [Thread-3] INFO  Contributors - repo-3: loaded 2 contributors
+<1712 [Test worker] INFO  Contributors - org: loaded 3 repos
+F1715 [Test worker] INFO  Contributors - repo-1: loaded 2 contributors
+F1716 [Test worker] INFO  Contributors - repo-2: loaded 2 contributors
+F1717 [Test worker] INFO  Contributors - repo-3: loaded 2 contributors
